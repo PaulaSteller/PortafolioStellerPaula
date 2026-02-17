@@ -1,3 +1,4 @@
+com/tienda_paula/StorageConfig.class
 com/tienda_paula/domain/Rol.class
 com/tienda_paula/service/UsuarioService.class
 com/tienda_paula/repository/RutaRepository.class
