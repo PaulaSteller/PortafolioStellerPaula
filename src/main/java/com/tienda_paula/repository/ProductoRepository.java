@@ -4,10 +4,11 @@
  */
 package com.tienda_paula.repository;
 
-/**
- *
- * @author paulasteller
- */
-public class ProductoRepository {
-    
+import com.tienda_paula.domain.Producto;
+import java.util.List;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface ProductoRepository extends JpaRepository<Producto, Integer> {
+
+    public List<Producto> findByActivoTrue();
 }
