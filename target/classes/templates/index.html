@@ -1,12 +1,15 @@
 <!DOCTYPE html>
-<!-- Esta es la página principal del sitio web TechShop -->
+<!-- Mi primera página html del curso -->
 <html>
     <head th:replace="~{general/fragmentos :: head}"/>
 
     <body>
         <header th:replace="~{general/fragmentos :: header}"/>
+        
+        <section th:replace="~{consultas/fragmentos :: tabs}"></section>
+
+        <section th:replace="~{consultas/fragmentos :: tarjetas}"></section>
 
         <footer th:replace="~{general/fragmentos :: footer}"/>
     </body>
 </html>
- 
