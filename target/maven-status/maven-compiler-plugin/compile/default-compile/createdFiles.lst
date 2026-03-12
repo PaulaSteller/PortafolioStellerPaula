@@ -14,6 +14,7 @@ com/tienda_paula/domain/Producto.class
 com/tienda_paula/repository/UsuarioRepository.class
 com/tienda_paula/domain/Ruta.class
 com/tienda_paula/controller/ProductoController.class
+com/tienda_paula/SecurityConfig.class
 com/tienda_paula/service/UsuarioDetailsService.class
 com/tienda_paula/service/CategoriaService.class
 com/tienda_paula/repository/CategoriaRepository.class
