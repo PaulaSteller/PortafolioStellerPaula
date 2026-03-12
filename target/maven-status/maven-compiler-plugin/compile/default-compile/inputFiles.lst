@@ -2,6 +2,7 @@
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/StorageConfig.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/TiendaPaulaApplication.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/controller/CategoriaController.java
+/Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/controller/ConsultasController.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/controller/IndexController.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/controller/ProductoController.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/domain/Categoria.java

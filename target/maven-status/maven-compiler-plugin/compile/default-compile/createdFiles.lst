@@ -19,4 +19,5 @@ com/tienda_paula/service/CategoriaService.class
 com/tienda_paula/repository/CategoriaRepository.class
 com/tienda_paula/repository/RolRepository.class
 com/tienda_paula/repository/ProductoRepository.class
+com/tienda_paula/controller/ConsultasController.class
 com/tienda_paula/controller/IndexController.class
