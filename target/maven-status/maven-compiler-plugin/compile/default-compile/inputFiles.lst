@@ -6,6 +6,8 @@
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/controller/ConsultasController.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/controller/IndexController.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/controller/ProductoController.java
+/Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/controller/RegistroController.java
+/Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/controller/UsuarioController.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/domain/Categoria.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/domain/Producto.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/domain/Rol.java
@@ -17,8 +19,10 @@
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/repository/RutaRepository.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/repository/UsuarioRepository.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/service/CategoriaService.java
+/Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/service/CorreoService.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/service/FirebaseStorageService.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/service/ProductoService.java
+/Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/service/RegistroService.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/service/RutaService.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/service/UsuarioDetailsService.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/service/UsuarioService.java

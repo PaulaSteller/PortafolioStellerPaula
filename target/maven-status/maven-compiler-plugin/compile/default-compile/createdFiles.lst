@@ -1,5 +1,6 @@
 com/tienda_paula/service/UsuarioService.class
 com/tienda_paula/repository/RutaRepository.class
+com/tienda_paula/controller/UsuarioController.class
 com/tienda_paula/domain/Categoria.class
 com/tienda_paula/service/RutaService.class
 com/tienda_paula/service/ProductoService.class
@@ -16,8 +17,10 @@ com/tienda_paula/domain/Ruta.class
 com/tienda_paula/controller/ProductoController.class
 com/tienda_paula/SecurityConfig.class
 com/tienda_paula/service/UsuarioDetailsService.class
+com/tienda_paula/controller/RegistroController.class
 com/tienda_paula/service/CategoriaService.class
 com/tienda_paula/repository/CategoriaRepository.class
+com/tienda_paula/service/RegistroService.class
 com/tienda_paula/repository/RolRepository.class
 com/tienda_paula/repository/ProductoRepository.class
 com/tienda_paula/controller/ConsultasController.class
