@@ -4,12 +4,15 @@
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/TiendaPaulaApplication.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/controller/CarritoController.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/controller/CategoriaController.java
+/Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/controller/ConstanteController.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/controller/ConsultasController.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/controller/IndexController.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/controller/ProductoController.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/controller/RegistroController.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/controller/UsuarioController.java
+/Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/controller/UsuarioRolController.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/domain/Categoria.java
+/Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/domain/Constante.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/domain/EstadoFactura.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/domain/Factura.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/domain/Item.java
@@ -19,6 +22,7 @@
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/domain/Usuario.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/domain/Venta.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/repository/CategoriaRepository.java
+/Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/repository/ConstanteRepository.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/repository/FacturaRepository.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/repository/ProductoRepository.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/repository/RolRepository.java
@@ -27,6 +31,7 @@
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/repository/VentaRepository.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/service/CarritoService.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/service/CategoriaService.java
+/Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/service/ConstanteService.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/service/CorreoService.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/service/FacturaService.java
 /Users/paulasteller/PortafolioStellerPaula/Tienda_Paula/PortafolioStellerPaula/src/main/java/com/tienda_paula/service/FirebaseStorageService.java

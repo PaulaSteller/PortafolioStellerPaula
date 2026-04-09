@@ -9,10 +9,12 @@ com/tienda_paula/repository/VentaRepository.class
 com/tienda_paula/service/RutaService.class
 com/tienda_paula/service/ProductoService.class
 com/tienda_paula/TiendaPaulaApplication.class
+com/tienda_paula/controller/ConstanteController.class
 com/tienda_paula/service/CarritoService.class
 com/tienda_paula/service/FirebaseStorageService.class
 com/tienda_paula/ProjectConfig.class
 com/tienda_paula/domain/Item.class
+com/tienda_paula/domain/Constante.class
 com/tienda_paula/domain/Usuario.class
 com/tienda_paula/controller/CarritoController.class
 com/tienda_paula/StorageConfig.class
@@ -23,6 +25,7 @@ com/tienda_paula/repository/UsuarioRepository.class
 com/tienda_paula/domain/Ruta.class
 com/tienda_paula/controller/ProductoController.class
 com/tienda_paula/SecurityConfig.class
+com/tienda_paula/service/ConstanteService.class
 com/tienda_paula/service/UsuarioDetailsService.class
 com/tienda_paula/controller/RegistroController.class
 com/tienda_paula/service/CategoriaService.class
@@ -34,3 +37,5 @@ com/tienda_paula/repository/RolRepository.class
 com/tienda_paula/repository/ProductoRepository.class
 com/tienda_paula/controller/ConsultasController.class
 com/tienda_paula/controller/IndexController.class
+com/tienda_paula/repository/ConstanteRepository.class
+com/tienda_paula/controller/UsuarioRolController.class
